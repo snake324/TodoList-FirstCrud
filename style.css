@@ -1,0 +1,34 @@
+.title{
+    color: white;
+    background-color: grey;
+    width: 32%;
+    height: 100px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#todo-input{
+    width: 25%;
+    height: 25px;
+    margin-bottom: 20px;
+}
+
+#add{
+    color: white;
+    background-color: #04AA6D;
+    padding: 7px 12px;
+    border-radius: 5PX;
+}
+
+#modify{
+    color: white;
+    background-color: #04AA6D;
+    padding: 7px 12px;
+    border-radius: 5PX;
+}
+
+#todo-list {
+  list-style-type: none;
+  padding: 0;
+}
