@@ -8,7 +8,7 @@
     margin-bottom: 20px;
 }
 
-#todo-input{
+#name-input{
     width: 25%;
     height: 25px;
     margin-bottom: 20px;
@@ -21,14 +21,7 @@
     border-radius: 5PX;
 }
 
-#modify{
-    color: white;
-    background-color: #04AA6D;
-    padding: 7px 12px;
-    border-radius: 5PX;
-}
-
-#todo-list {
+#person-list {
   list-style-type: none;
   padding: 0;
 }
